@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Pedro Nunes, tenho 28 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando engenharia mecânica. Sou apaixonado por tecnologia.
+Me chamo João Pedro Nunes, tenho 18 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando engenharia mecânica. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://github.com/SEU_USUARIO_DO_GITHUB?tab=followers">
